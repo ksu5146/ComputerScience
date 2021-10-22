@@ -15,7 +15,7 @@
 
 
 
-![image-20211021163747358](C:\Users\sukang\AppData\Roaming\Typora\typora-user-images\image-20211021163747358.png)
+![image-20211021163747358](./referenceImage/image-20211021163747358.png)
 
 클라이언트에서 요청되는것을 보통 **HTTP Request** 라 하고, 서버에서의 응답을 **HTTP Response** 라고 정의 합니다. 
 
@@ -95,7 +95,11 @@ https://gmlwjd9405.github.io/2019/01/28/http-header-types.html
 
 CORS 문제는 브라우저 에서, Javascript XMLHttpRequest 와 Fetch API 호출 시 해당 CORS 문제 발생 가능 
 
-![image-20211021185421217](C:\Users\sukang\AppData\Roaming\Typora\typora-user-images\image-20211021185421217.png)
+
+
+
+
+![image-20211021185421217](./referenceImage/image-20211021185421217.png)
 
 
 
